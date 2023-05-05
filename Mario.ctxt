@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Mario
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MovingSprite\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Mario()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ This\ method\ allows\ the\ user\ to\ move\ the\ crab\ so\ that\ when\r\n\ it\ collides\ with\ a\ worm\ the\ worm\ is\ removed\ and\ the\ score\r\n\ is\ increase\r\n
+comment3.params=
+comment3.target=void\ turnAndMove()
+comment3.text=\r\n\ This\ method\ rotates\ the\ worm\ a\ small\ amount\ to\ the\r\n\ left\ or\ to\ the\ right,\ and\ then\ the\ worm\ moves\ in\ that\r\n\ direction\r\n
+comment4.params=
+comment4.target=void\ move4Ways()
+comment4.text=\r\n\ This\ method\ moves\ the\ crab\ around\ in\ four\ directions\r\n\ left,\ right,\ up\ and\ down\ using\ coordinate\ positions.\ \r\n\ It\ must\ not\ move\ off\ the\ screen.\r\n
+numComments=5

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=MarioWorld
+comment0.text=\r\n
+comment1.params=
+comment1.target=MarioWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ addStars()
+comment2.text=\r\n\ Add\ MAXN_STARS\ to\ the\ world\ in\ random\ positions\r\n
+comment3.params=
+comment3.target=void\ addRocket()
+comment4.params=
+comment4.target=void\ createRocket()
+comment5.params=
+comment5.target=void\ createStars()
+comment6.params=
+comment6.target=void\ score()
+comment7.params=
+comment7.target=void\ setupScore()
+comment8.params=
+comment8.target=void\ loseGame()
+comment9.params=
+comment9.target=void\ winGame()
+numComments=10
